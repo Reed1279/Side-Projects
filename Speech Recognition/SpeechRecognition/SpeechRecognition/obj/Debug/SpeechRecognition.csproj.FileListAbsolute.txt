@@ -1,0 +1,15 @@
+c:\users\calamity\documents\visual studio 2013\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+C:\Users\Calamity\Documents\Visual Studio 2013\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Calamity\Documents\Visual Studio 2013\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+C:\Users\Calamity\Documents\Visual Studio 2013\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\Calamity\Documents\Visual Studio 2013\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+C:\Users\Calamity\Documents\Visual Studio 2013\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
+C:\Users\Calamity\Documents\Visual Studio 2013\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\example.txt
+D:\Visual Studio\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\example.txt
+D:\Visual Studio\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+D:\Visual Studio\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+D:\Visual Studio\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+D:\Visual Studio\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+D:\Visual Studio\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
+D:\Visual Studio\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache

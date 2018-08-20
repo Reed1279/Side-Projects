@@ -1,0 +1,9 @@
+D:\Visual Studio\Projects\Alicia\Alicia\bin\Debug\Alicia.exe.config
+D:\Visual Studio\Projects\Alicia\Alicia\bin\Debug\Alicia.exe
+D:\Visual Studio\Projects\Alicia\Alicia\bin\Debug\Alicia.pdb
+D:\Visual Studio\Projects\Alicia\Alicia\obj\Debug\Alicia.Form1.resources
+D:\Visual Studio\Projects\Alicia\Alicia\obj\Debug\Alicia.Properties.Resources.resources
+D:\Visual Studio\Projects\Alicia\Alicia\obj\Debug\Alicia.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\Alicia\Alicia\obj\Debug\Alicia.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Alicia\Alicia\obj\Debug\Alicia.exe
+D:\Visual Studio\Projects\Alicia\Alicia\obj\Debug\Alicia.pdb
